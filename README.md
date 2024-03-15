@@ -9,7 +9,7 @@
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&pause=1000&color=F7C33D&width=700&height=93&lines=Hello+world+im+Amir+H+Ahmadi+%F0%9F%98%80;im+a+web+developer%F0%9F%98%8E%F0%9F%98%8E" alt="Typing SVG" /></a> -->
 <!-- </h1> -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=50&pause=1000&color=F7C33D&vCenter=true&random=true&width=1000&height=100&lines=hello+world+i+am+amir+h+ahmadi%F0%9F%99%83;frontend+developer++%F0%9F%98%8E;thanks+for+your+attention+to+my+git+hub%F0%9F%98%81" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=50&pause=1000&color=F7C33D&vCenter=true&random=true&width=1000&height=100&lines=hello+world+i+am+amir+h+ahmadi%F0%9F%99%83;frontend+developer++%F0%9F%98%8E;thanks+for+your+attention+to+my+github%F0%9F%98%81" alt="Typing SVG" /></a>
 <!-- <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://www.linkpicture.com/q/github-header-01.jpg">
  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
@@ -24,14 +24,21 @@
 
 
 
-## Hello world im a junior front end developer with two years experince in this erea
-### i love coding , learning ,reading , making , finding ,designing ,drowing ,debuging , movies ,serials ,and more ...😅 
+<!--## Hello world im a junior front end developer with two years experince in this erea-->
+## my name is amir h ahmadi and im a coolest developer you ever seen 
+## To the outside world, I am just a regular student  but secretly with the help of my friends 
+<h1 align="center">
+ i am a PROGRAMER
+</h1>
 
-##
+
+<br/>
+## i love coding , learning ,reading , making , finding ,designing ,drowing ,debuging , movies ,serials ,and more ...😅 
+
+
 
 <h1 align="center">
 ⚡ Technologies i use in a regular day
- 
 </h1>
  
 
