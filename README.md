@@ -32,7 +32,6 @@
 </h1>
 
 
-<br/>
 ## i love coding , learning ,reading , making , finding ,designing ,drowing ,debuging , movies ,serials ,and more ...😅 
 
 
