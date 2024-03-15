@@ -103,7 +103,7 @@
 <!--[![image](https://i.ibb.co/fMct9Nz/github-cover2-01.jpg)](https://www.linkpicture.com/view.php?img=LPic64eb820d2fb37225043070)-->
 
 <h1 align="center" >
-<a href="https://git.io/typing-svg"><img src="/Untitled-3-01.jpg" alt="Typing" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=F70909&background=2DFF3900&random=false&width=435&lines=now+hit+the+star+and+follow+button" alt="Typing SVG" /></a>
 </h1>
 
 
