@@ -8,7 +8,7 @@
  <!-- <h1 align="center" > -->
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&pause=1000&color=F7C33D&width=700&height=93&lines=Hello+world+im+Amir+H+Ahmadi+%F0%9F%98%80;im+a+web+developer%F0%9F%98%8E%F0%9F%98%8E" alt="Typing SVG" /></a> -->
 <!-- </h1> -->
-
+ 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=500&size=50&pause=1000&color=F7C33D&vCenter=true&random=true&width=1000&height=100&lines=hello+world+i+am+amir+h+ahmadi%F0%9F%99%83;frontend+developer++%F0%9F%98%8E;thanks+for+your+attention+to+my+github%F0%9F%98%81" alt="Typing SVG" /></a>
 <!-- <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://www.linkpicture.com/q/github-header-01.jpg">
