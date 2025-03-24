@@ -2,7 +2,7 @@
 <!--[![image](https://i.ibb.co/fMct9Nz/github-cover2-01.jpg)](https://www.linkpicture.com/view.php?img=LPic64eb820d2fb37225043070)-->
 
 <h1 align="center" >
-<a href="https://git.io/typing-svg"><img src="/github cover2-01.jpg" alt="Typing" /></a>
+<a href="https://git.io/typing-svg"><img src="/github cover3-01.jpg" alt="Typing" /></a>
 </h1>
 
  <!-- <h1 align="center" > -->
