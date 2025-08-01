@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7C33D&center=true&width=1000&lines=Frontend+Sorcerer;Web+Engineer+by+Day%2C+Debugger+by+Night;Making+the+Internet+Less+Boring" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://i.ibb.co/fMct9Nz/github-cover2-01.jpg" alt="cover" />
-</p>
+<h1 align="center" >
+<a href="https://git.io/typing-svg"><img src="/github cover2-01.jpg" alt="Typing" /></a>
+</h1>
 
 ---
 
