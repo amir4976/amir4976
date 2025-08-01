@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7C33D&center=true&width=500&lines=Frontend+Sorcerer;Web+Engineer+by+Day%2C+Debugger+by+Night;Making+the+Internet+Less+Boring" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7C33D&center=true&width=1000&lines=Frontend+Sorcerer;Web+Engineer+by+Day%2C+Debugger+by+Night;Making+the+Internet+Less+Boring" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -48,12 +48,11 @@
 ---
 
 ## 📈 Stats & Graphs
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir4976&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amir4976&theme=codeSTACKr&bg_color=0d1117&hide_border=true" />
+ 
 </p>
-
+ 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amir4976&theme=react-dark&hide_border=true" />
 </p>
