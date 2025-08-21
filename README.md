@@ -59,13 +59,6 @@
 
 ---
 
-## 🎖️ Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amir4976&theme=onedark&row=1&margin-w=20" />
-</p>
-
----
 
 ## 🔗 Contact Me
 
