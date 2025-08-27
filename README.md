@@ -51,11 +51,7 @@
   </a>
 
 
-## 🛠️ i follow for hubby
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=zig,python,r,threejs,mysql" />
-  </a>
 
 ---
 
