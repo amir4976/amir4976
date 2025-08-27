@@ -23,15 +23,32 @@
 
 ---
 
-## 🛠️ Daily Arsenal
+## 🛠️ My Main languages
 
 
-<p align="center">
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,c,cpp,figma,ai,ps,materialui,mongodb,netlify,nextjs,react,redux,tailwind,vite,vscode,github,gitlab,postman" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cpp" />
   </a>
-</p>
 
+
+## 🛠️ My Frontend Tools
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,materialui" />
+  </a>
+
+## 🛠️ My Backend Tools
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,graphql,nestjs,express,mongodb,jest,docker,postgresql,redis" />
+  </a>
+
+## 🛠️ My Design Tools
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop" />
+  </a>
 
 ---
 
