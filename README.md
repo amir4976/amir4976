@@ -41,13 +41,20 @@
 ## 🛠️ My Backend Tools
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,graphql,nestjs,express,mongodb,jest,docker,postgresql,redis" />
+    <img src="https://skillicons.dev/icons?i=nodejs,graphql,nestjs,express,mongodb,jest,docker,postgresql,appwrite,redis,aws,azure" />
   </a>
 
 ## 🛠️ My Design Tools
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop" />
+  </a>
+
+
+## 🛠️ i follow for hubby
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=zig,python,r,threejs,mysql" />
   </a>
 
 ---
