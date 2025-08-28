@@ -41,7 +41,7 @@
 ## 🛠️ My Backend Tools
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,graphql,nestjs,express,jest,docker,postgresql,mongodb,appwrite,azure" />
+    <img src="https://skillicons.dev/icons?i=nodejs,graphql,nestjs,express,jest,docker,postgresql,prisma,mongodb,appwrite,azure" />
   </a>
 
 ## 🛠️ My Design Tools
