@@ -18,7 +18,7 @@
 > "To the outside world, I’m just a regular student.  
 > But behind the screen, I’m rewriting the rules."
 
-🌍 I go by the name **Amir H. Ahmadi** aka ***Dangerous Winner***.  
+🌍 I go by the name **Amir H. Ahmadi**  
 💻 I’m a **FullStack Developer** with a taste for detail, madness, and minimal bugs (well, mostly).  
 🎯 I mix logic with design, creativity with code, and curiosity with caffeine.
 
