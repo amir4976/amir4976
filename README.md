@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center" >
-<a href="https://git.io/typing-svg"><img src="/COVER.png" alt="Typing" /></a>
+<a href="https://git.io/typing-svg"><img src="/COVER.jpg" alt="Typing" /></a>
 </h1>
 
 
